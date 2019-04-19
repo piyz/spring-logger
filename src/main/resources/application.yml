@@ -1,0 +1,2 @@
+logging:
+  config: slf4j-spring.xml
